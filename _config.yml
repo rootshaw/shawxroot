@@ -1,1 +1,9 @@
+title: Shaw
+description: 4A.
+google_analytics: G-TQDY39SMPN
 theme: jekyll-theme-cayman
+show_urls: true
+github:
+  root_url: https://www.imdb.com/title/tt1839578/characters/nm0009918
+  shaw_url: https://www.imdb.com/title/tt1839578/characters/nm1083404
+  description: You and me together would be like a four-alarm fire in an oil refinery.
